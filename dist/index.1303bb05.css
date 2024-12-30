@@ -1,0 +1,11 @@
+.custom-node {
+  background-color: #f4f4f4;
+  border: 2px dashed #888;
+  margin: 10px;
+  padding: 10px;
+}
+
+span[style*="background-color: yellow"] {
+  background-color: #ff0;
+}
+/*# sourceMappingURL=index.1303bb05.css.map */

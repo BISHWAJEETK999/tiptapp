@@ -1,0 +1,12 @@
+/* styles.css */
+.custom-node {
+    border: 2px dashed #888;
+    padding: 10px;
+    margin: 10px;
+    background-color: #f4f4f4;
+  }
+  
+  span[style*="background-color: yellow"] {
+    background-color: yellow;
+  }
+  
